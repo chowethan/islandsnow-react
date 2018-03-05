@@ -1,0 +1,48 @@
+.ui.menu {
+  border-radius: 0;
+}
+
+.ui.menu .item {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.ui.borderless.menu.topmenu {
+  height: 49px;
+  background-color: #F5F5F5;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.menu.middlemenu {
+  height: 40px;
+  background-color: #FFF;
+  box-shadow: none;
+  border: none;
+}
+
+hr {
+  height: 1px;
+  margin: 3px 0 30px;
+  border: none;
+  background: #FFF;
+}
+
+.footer {
+  padding: 50px 0;
+  background-color: #292929;
+  color: #FFF;
+}
+
+.footer .footer-header {
+  text-transform: uppercase;
+}
+
+.footer a {
+  color: #FFF;
+}
+
+.footer input {
+  border: none;
+
+}
